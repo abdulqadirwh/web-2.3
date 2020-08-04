@@ -1,0 +1,52 @@
+.header{
+    background-color: orchid;
+    display:flex;
+justify-content: space-between;
+border: 50;
+border-radius: 50px;
+}
+.menu{
+    display: flex; 
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-right: 30px; 
+font: bolder;
+}
+.footer{
+    display: flex;
+justify-content: flex-end;
+}
+.grid{
+    display: flex; 
+ flex-wrap: wrap;
+ justify-content: space-evenly;
+ }
+ .footer{
+    display: flex;
+justify-content: flex-end;
+}
+h2{
+ margin-left: 450px;
+    background-color :lime;
+    text-align: center; 
+border: 50px; 
+border-radius: 50px;
+width: 420;
+font: bolder;
+}
+.l1{
+  color: aquamarine;   
+ } 
+.l1{
+    color: aqua;   
+   }
+.l1{
+    color: aquamarine;   
+   } 
+.l1{
+    color: aqua;   
+   }
+.l1{
+    color: aquamarine;   
+   }
+  
